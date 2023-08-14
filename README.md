@@ -1,6 +1,19 @@
 # WINEQUALITY_PREDICTION
 LINEAR REGRESSION
-inear regression is a simple yet powerful statistical model that can be used to predict a continuous variable (such as wine quality) from a set of independent variables (such as the wine's chemical properties). The model works by finding a linear relationship between the independent variables and the dependent variable.
+![image](https://github.com/wahid-irfan/WINEQUALITY_PREDICTION/assets/139098947/71c8bc63-960d-465d-b895-b67224d09444)
+
+
+
+
+
+
+
+
+
+
+
+
+Linear regression is a simple yet powerful statistical model that can be used to predict a continuous variable (such as wine quality) from a set of independent variables (such as the wine's chemical properties). The model works by finding a linear relationship between the independent variables and the dependent variable.
 
 In the case of wine quality prediction, the independent variables could be the wine's fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, and alcohol content. The dependent variable would be the wine's quality, which is rated on a scale of 0 to 10.
 
